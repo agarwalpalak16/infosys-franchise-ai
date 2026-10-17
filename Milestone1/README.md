@@ -20,4 +20,11 @@ Python, Streamlit, JWT, ngrok, Gmail SMTP
 3. Run all cells and open the ngrok link.
 
 ## Screenshots
-(To be added)
+![Login](screenshots/login.png)
+![Signup](screenshots/signup.png)
+![Forgot Password - Security Question](screenshots/forgot_security.png)
+![Forgot Password - OTP](screenshots/forgot_otp.png)
+![OTP Email](screenshots/otp_email.jpeg)
+![User Dashboard](screenshots/user_dashboard.png)
+![Admin Dashboard](screenshots/admin_dashboard.png)
+
