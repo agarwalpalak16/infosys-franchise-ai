@@ -192,5 +192,5 @@ The AI Copilot allows authorized users to ask 25 supported business questions an
 ## 13. Team Contributions
 | Palak Agarwal | Login and security |
 | Murnali | Roles and access control, Profile, Admin dashboard |
-| Swatika | AI Copilot |
+| Sathwika | AI Copilot |
 | Aditya | Design, agents and submission |
