@@ -122,25 +122,9 @@ Milestone3/
 
 ```
 
-## 8. Application Screenshots
 
-### 8.1 Login Page
 
-![Login Page](screenshots/login.jpeg)
-
-### 8.2 Dashboard
-
-![Dashboard](screenshots/dashboard.jpeg)
-
-### 8.3 AI Copilot
-
-![AI Copilot](screenshots/ai_copilot.jpeg)
-
-### 8.4 Copilot Response
-
-![Copilot Response](screenshots/copilot_response.jpeg)
-
-## 9. Milestone 3 Deliverables
+## 8. Milestone 3 Deliverables
 
 | Deliverable | Target |
 |---|---|
@@ -152,7 +136,7 @@ Milestone3/
 | AI agents | Enhanced |
 | Application integration | Testing and validation |
 
-## 10. Testing and Validation
+## 9. Testing and Validation
 
 - Verify PDF text extraction.
 - Validate document chunking and indexing.
@@ -163,7 +147,7 @@ Milestone3/
 - Validate AI agent functionality.
 - Test complete application integration.
 
-## 11. Expected Outcome
+## 10. Expected Outcome
 
 Milestone 3 aims to deliver an enhanced FranchiseOps AI platform with an expanded knowledge base, intelligent Copilot, hybrid document retrieval, improved AI agents, and seamless integration with the existing application.
 
