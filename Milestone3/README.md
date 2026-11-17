@@ -151,11 +151,11 @@ Milestone3/
 
 Milestone 3 aims to deliver an enhanced FranchiseOps AI platform with an expanded knowledge base, intelligent Copilot, hybrid document retrieval, improved AI agents, and seamless integration with the existing application.
 
-## 12. Team Contributions
+## 11. Team Contributions
 
 | Team Member | Contributions |
 |---|---|
-| **Palak** | AI Copilot,PPT |
+| **Palak Agarwal** | AI Copilot,PPT |
 | **Nuthi Sathwika** | RAG integration,Agents simulator|
 | **Pullaiahgari Lahari** | taught questions for AI Copilot  |
 | **Shruthi Borde** |project integration ,git|
